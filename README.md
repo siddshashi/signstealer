@@ -1,4 +1,4 @@
-# signstealer
+# Baseball Sign Stealer
 
 Right now, I'm trying to write a bot to interpret a diverse array of sequences and map them to more than 2 plays. I also want to look into other forms of signals like wipe-offs and frequency as an input. Once I'm done with college applications, I'll be sure to get on it. So far, I've done the following: 
 
